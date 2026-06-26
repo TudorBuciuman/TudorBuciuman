@@ -1,12 +1,12 @@
 # About Me:
-🔭 I’m currently working on Anarchy Chess<br>♟️ I’m looking to collaborate in Unity ( c#) <br>🌱 I’m currently learning to En passant<br>Watch as I try and ultimately fail
+🔭 I’m currently working on Turbografix<br>🎮 I’m looking to collaborate in Unity ( c#) <br>🌱 I’m currently learning 2D and 3D environments<br>Watch as I try and ultimately fail
 <div align="left">
-  <img src="https://github.com/TudorBuciuman/AnarchyChess/blob/main/Assets/sprites/Logo/Untitled11.png"  />
+  <img src="https://github.com/TudorBuciuman/Turbografx/blob/main/Assets/Sprites/Logo/03e6928e9a91ede96d874355e35d1577.1000x1000x1.png"  />
 </div>
 
 # Socials:
 <p align="left">
-<a href="https://www.instagram.com/tudortalesgames/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="https://www.instagram.com/buciumantudor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p> 
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCUoktYakL6fIwG_xT8O5Kyw) 
