@@ -1,7 +1,7 @@
 # About Me:
 🔭 I’m currently working on Turbografix<br>🎮 I’m looking to collaborate in Unity (C#) <br>🌱 I’m currently learning 2D and 3D environments
 <div align="left">
-  <img src="https://github.com/TudorBuciuman/Turbografx/blob/main/Assets/Sprites/Logo/03e6928e9a91ede96d874355e35d1577.1000x1000x1.png"  />
+  <img src="https://github.com/TudorBuciuman/Turbografx/blob/main/Assets/Sprites/Logo/TurboGrafx-16.png"  />
 </div>
 
 # Socials:
